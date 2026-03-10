@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Blood Donor Management System</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Blood Donor Management System</h1>
+<nav>
+<a href="index.html">Home</a>
+<a href="register.html">Register Donor</a>
+<a href="search.html">Find Donor</a>
+</nav>
+</header>
+
+<section class="container">
+<h2>Save Lives By Donating Blood</h2>
+<p>This website helps people find blood donors easily.</p>
+</section>
+
+</body>
+</html>
